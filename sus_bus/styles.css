@@ -9,6 +9,12 @@ body {
   overflow:hidden;
 }
 
+/* Header */
+
+a {
+  text-decoration: none;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -19,3 +25,5 @@ header li {
   display: inline;
   padding: 0 20px 0 20px;
 }
+
+/* End of Header */
